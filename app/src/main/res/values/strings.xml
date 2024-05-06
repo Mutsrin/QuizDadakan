@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TugasDay10</string>
+    <string name="warung_makan_ajaib">Warung Makan Ajaib</string>
+    <string name="menu_makanan">Menu Makanan</string>
+    <string name="nasi_goreng">Nasi Goreng</string>
+    <string name="mie_goreng">Mie Goreng</string>
+    <string name="mie_rebus">Mie Rebus</string>
+    <string name="nasi_uduk">Nasi Uduk</string>
+    <string name="menu_minuman">Menu Minuman</string>
+    <string name="teh_es">Teh Es</string>
+    <string name="jumlah_porsi">Jumlah Porsi</string>
+    <string name="es_jeruk">Es Jeruk</string>
+    <string name="menu_pesanan">Menu Pesanan :</string>
+</resources>
